@@ -2,42 +2,88 @@
 
 # Here Are A Few Tips™
 
-### 🚀 Développeur Full Stack • Lua Developer • Web Creator
+### Full Stack Developer • Lua Developer • Web Creator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Lua+%2F+Vue.js+%2F+React+Developer;Working+on+PixelarWL;Building+NesqkBase;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Lua+%2F+Vue.js+%2F+React+Developer;Working+on+PixelarWL;Building+NesqkBase;Always+learning+new+things" />
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Languages-5-00F7FF?style=for-the-badge&logo=codecrafters&logoColor=white">
+<img src="https://img.shields.io/badge/Profile-Nesquik128-7F00FF?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/github/last-commit/Nesquik128/Nesquik128?style=for-the-badge&color=00F7FF&label=Last%20Commit">
+<img src="https://komarev.com/ghpvc/?username=Nesquik128&style=for-the-badge&color=7F00FF&label=Profile+Views">
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
-![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)
+<br><br>
 
-</div>
-</div>
+<a href="https://discord.gg/JHrPqkjH6d">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
-# 🌐 Réseaux & Contact
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/](https://discord.gg/JHrPqkjH6d))
-[![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github)](https://github.com/Nesquik128)
+<a href="https://github.com/Nesquik128">
+<img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
 ---
 
+# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="22"> Current Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### PixelarWL
+Custom systems, optimization and advanced development.
+
+</td>
+<td width="50%">
+
+### NesqkBase
+Custom base focused on performance and modularity.
+
+</td>
+</tr>
+</table>
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="22"> Tech Stack
+
 <div align="center">
 
-## 🚀 "Code. Create. Improve."
+<img src="https://skillicons.dev/icons?i=lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+
+</div>
+
+---
+
+# <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" width="22"> Development Focus
+
+```txt
+> Full Stack Development
+> Lua Systems
+> Web Applications
+> Custom Frameworks
+> Optimization
+> Modern UI/UX
+```
+
+---
+
+<div align="center">
+
+## "Code. Create. Improve."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
 
