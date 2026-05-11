@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Lua Developer • Web Creator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Lua+%2F+Vue.js+%2F+React+Developer;Working+on+PixelarWL;Building+NesqkBase;Always+learning+new+things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Lua+%2F+Vue.js+Developer;Working+on+PixelarWL;Building+NesqkBase;Always+learning+new+things" />
 
 <br>
 
@@ -16,11 +16,11 @@
 <br><br>
 
 <a href="https://discord.gg/JHrPqkjH6d">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 <a href="https://github.com/Nesquik128">
-<img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -30,17 +30,17 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/3523/3523887.png" width="22"> About
 
 ```txt
-Name: Nesquik128  
-Role: Full Stack Developer  
-Focus: Web Development / Backend  
-Current Work: PixelarWL  
+Name: Nesquik128
+Role: Full Stack Developer
+Focus: Web Development / Backend
+Current Work: PixelarWL
 ```
 
 <div align="left">
 
 <img src="https://img.shields.io/badge/Main_Language-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 
-<img src="https://img.shields.io/badge/Frontend-Vue.js_/_React-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Frontend-Vue.js_/_TailwindCSS-42b883?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
 <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 
@@ -97,7 +97,7 @@ Optimized structure for clean and maintainable codebases.
 <img src="https://skillicons.dev/icons?i=lua&theme=dark" />
 <img src="https://skillicons.dev/icons?i=js&theme=dark" />
 <img src="https://skillicons.dev/icons?i=vue&theme=dark" />
-<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
 <img src="https://skillicons.dev/icons?i=html&theme=dark" />
 <img src="https://skillicons.dev/icons?i=css&theme=dark" />
 <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
