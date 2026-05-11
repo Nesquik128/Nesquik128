@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Languages-5-00F7FF?style=for-the-badge&logo=codecrafters&logoColor=white">
 <img src="https://img.shields.io/badge/Profile-Nesquik128-7F00FF?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/github/last-commit/Nesquik128/Nesquik128?style=for-the-badge&color=00F7FF&label=Last%20Commit">
-<img src="https://komarev.com/ghpvc/?username=Nesquik128&style=for-the-badge&color=7F00FF&label=Profile+Views">
+<img src="https://komarev.com/ghpvc/?username=Nesquik128&style=for-the-badge&color=7F00FF&label=Profile%20Views">
 
 <br><br>
 
@@ -27,22 +27,64 @@
 
 ---
 
+# <img src="https://cdn-icons-png.flaticon.com/512/3523/3523887.png" width="22"> About
+
+```txt
+Name: Nesquik128  
+Role: Full Stack Developer  
+Focus: Web Development / Backend  
+Current Work: PixelarWL  
+```
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Main_Language-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+
+<img src="https://img.shields.io/badge/Frontend-Vue.js_/_React-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white">
+
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
+<img src="https://img.shields.io/badge/Database-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+
+</div>
+
+---
+
 # <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="22"> Current Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### PixelarWL
-Custom systems, optimization and advanced development.
+<td width="50%" align="center">
+
+<strong>PixelarWL</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-In_Development-00F7FF?style=for-the-badge">
+
+<br><br>
+
+Project focused on system architecture, performance optimization and scalable gameplay systems.  
+Currently in active development.
 
 </td>
-<td width="50%">
 
-### NesqkBase
-Custom base focused on performance and modularity.
+<td width="50%" align="center">
+
+<strong>NesqkBase</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Core_Framework-7F00FF?style=for-the-badge">
+
+<br><br>
+
+Modular development base designed for reuse across multiple projects.  
+Optimized structure for clean and maintainable codebases.
 
 </td>
+
 </tr>
 </table>
 
@@ -68,22 +110,9 @@ Custom base focused on performance and modularity.
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1157/1157109.png" width="22"> Development Focus
-
-```txt
-> Full Stack Development
-> Lua Systems
-> Web Applications
-> Custom Frameworks
-> Optimization
-> Modern UI/UX
-```
-
----
-
 <div align="center">
 
-## "Code. Create. Improve."
+## Code. Create. Improve.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
 
