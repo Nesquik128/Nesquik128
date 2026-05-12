@@ -40,7 +40,7 @@ Current Work: PixelarWL
 
 <img src="https://img.shields.io/badge/Main_Language-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 
-<img src="https://img.shields.io/badge/Frontend-Vue.js_/_TailwindCSS-42b883?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/NUI_Development-Vue.js_/_TailwindCSS-42b883?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
 <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 
@@ -65,8 +65,8 @@ Current Work: PixelarWL
 
 <br><br>
 
-Project focused on system architecture, performance optimization and scalable gameplay systems.  
-Currently in active development.
+FiveM project focused on system architecture, performance optimization and scalable gameplay systems.  
+Currently in active development with clean backend logic and modern NUI interfaces.
 
 </td>
 
@@ -76,12 +76,12 @@ Currently in active development.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Status-Core_Framework-7F00FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-NUI_Development-7F00FF?style=for-the-badge">
 
 <br><br>
 
-Modular development base designed for reuse across multiple projects.  
-Optimized structure for clean and maintainable codebases.
+Modular FiveM base designed for reusable systems, clean code structure and modern NUI development.  
+Currently focused on building clean, responsive and maintainable user interfaces.
 
 </td>
 
