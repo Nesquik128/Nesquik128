@@ -1,119 +1,44 @@
 <div align="center">
-
-# Here Are A Few Tips™
-
-### Full Stack Developer • Lua Developer • Web Creator
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Lua+%2F+Vue.js+Developer;Working+on+PixelarWL;Building+NesqkBase;Always+learning+new+things" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Languages-5-00F7FF?style=for-the-badge&logo=codecrafters&logoColor=white">
-<img src="https://img.shields.io/badge/Profile-Nesquik128-7F00FF?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/github/last-commit/Nesquik128/Nesquik128?style=for-the-badge&color=00F7FF&label=Last%20Commit">
-<img src="https://komarev.com/ghpvc/?username=Nesquik128&style=for-the-badge&color=7F00FF&label=Profile%20Views">
-
-<br><br>
-
-<a href="https://discord.gg/JHrPqkjH6d">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
-<a href="https://github.com/Nesquik128">
-    <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=E3E9D6&amp;center=true&amp;vCenter=true&amp;width=480&amp;height=56&amp;lines=Full-Stack+Developer;Lua+%2F+Vue.js+Developer;Building+UniverseFA;Building+KUB">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=5F7A52&amp;center=true&amp;vCenter=true&amp;width=480&amp;height=56&amp;lines=Full-Stack+Developer;Lua+%2F+Vue.js+Developer;Building+UniverseFA;Building+KUB" alt="Full-Stack Developer · Lua and Vue.js · Building UniverseFA and KUB" width="480">
+  </picture>
 </div>
 
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/3523/3523887.png" width="22"> About
-
-```txt
-Name: Nesquik128
-Role: Full Stack Developer
-Focus: Web Development / Backend
-Current Work: PixelarWL
-```
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Main_Language-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-
-<img src="https://img.shields.io/badge/NUI_Development-Vue.js_/_TailwindCSS-42b883?style=for-the-badge&logo=tailwindcss&logoColor=white">
-
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/Database-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
-
-</div>
-
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="22"> Current Projects
+## Current Projects
 
 <table>
-<tr>
-
-<td width="50%" align="center">
-
-<strong>PixelarWL</strong>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-In_Development-00F7FF?style=for-the-badge">
-
-<br><br>
-
-FiveM project focused on system architecture, performance optimization and scalable gameplay systems.  
-Currently in active development with clean backend logic and modern NUI interfaces.
-
-</td>
-
-<td width="50%" align="center">
-
-<strong>NesqkBase</strong>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-NUI_Development-7F00FF?style=for-the-badge">
-
-<br><br>
-
-Modular FiveM base designed for reusable systems, clean code structure and modern NUI development.  
-Currently focused on building clean, responsive and maintainable user interfaces.
-
-</td>
-
-</tr>
+  <thead>
+    <tr>
+      <th width="50%" align="center">
+  <img src="./assets/universefa.png" alt="UniverseFA" width="28" height="28">
+</th>
+      <th width="50%" align="center">
+        <img src="./assets/kub.svg" alt="" width="28" height="28" align="middle">
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/In_development-5F7A52?style=flat-square" alt="In development">
+        <p>iProMx's fiveM server</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/In_development-5F7A52?style=flat-square" alt="In development">
+        <p>Creative studio for web design and development.</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
----
+## Tech Stack
 
-# <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="22"> Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=lua&theme=dark" />
-<img src="https://skillicons.dev/icons?i=js&theme=dark" />
-<img src="https://skillicons.dev/icons?i=vue&theme=dark" />
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
-<img src="https://skillicons.dev/icons?i=html&theme=dark" />
-<img src="https://skillicons.dev/icons?i=css&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git&theme=dark" />
-<img src="https://skillicons.dev/icons?i=github&theme=dark" />
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## Code. Create. Improve.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,cs,js,ts,vue,html,css,sass&amp;theme=dark" alt="Lua, C#, JavaScript, TypeScript, Vue.js, HTML, CSS, and SCSS" height="44">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,mysql&amp;theme=dark" alt="Tailwind CSS, Node.js, and MySQL" height="44">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&amp;theme=dark" alt="Git, GitHub, Visual Studio Code, and IntelliJ IDEA" height="44">
+</p>
