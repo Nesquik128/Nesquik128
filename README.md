@@ -7,30 +7,32 @@
 
 ## Current Projects
 
-<table>
-  <thead>
-    <tr>
-      <th width="50%" align="center">
-  <img src="./assets/clipboard.png" alt="UniverseFA" width="28" height="28">
-</th>
-      <th width="50%" align="center">
-        <img src="./assets/kub.svg" alt="" width="28" height="28" align="middle">
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/In_development-5F7A52?style=flat-square" alt="In development">
-        <p>iProMx's fiveM server</p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/In_development-5F7A52?style=flat-square" alt="In development">
-        <p>Creative studio for web design and development.</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th width="50%" align="center">
+          <img src="./assets/clipboard.png" alt="UniverseFA" width="28" height="28">
+        </th>
+        <th width="50%" align="center">
+          <img src="./assets/kub.svg" alt="KUB" width="28" height="28">
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" valign="top">
+          <img src="https://img.shields.io/badge/In_development-5F7A52?style=flat-square" alt="In development">
+          <p>iProMx's FiveM server</p>
+        </td>
+        <td align="center" valign="top">
+          <img src="https://img.shields.io/badge/In_development-5F7A52?style=flat-square" alt="In development">
+          <p>Creative studio for web design and development.</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Tech Stack
 
