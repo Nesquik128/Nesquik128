@@ -11,7 +11,7 @@
   <thead>
     <tr>
       <th width="50%" align="center">
-  <img src="./assets/universefa.png" alt="UniverseFA" width="28" height="28">
+  <img src="./assets/clipboard.png" alt="UniverseFA" width="28" height="28">
 </th>
       <th width="50%" align="center">
         <img src="./assets/kub.svg" alt="" width="28" height="28" align="middle">
